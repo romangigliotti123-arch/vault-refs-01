@@ -4,7 +4,7 @@
 
 **Third-party content.** Every image is a frame captured from a public gameplay video of someone else's Roblox game. Nothing here is original work of this repository's owner and no licence is granted: see [NOTICE.md](NOTICE.md) for the credits (game names, video creators), the rights position and how to ask for removal.
 
-Part of the Roblox Dev Mastery Vault (https://github.com/romangigliotti123-arch/vault-kit-01). Built and maintained by Roman (GitHub: romangigliotti123-arch). The vault's setup and `/vault-update` fetch this repository automatically into `~/.claude/claude-kit/roblox-reference/` and point the visual-QA step at it (`claude-kit/tools/refs-sync.py`); by hand: `git clone https://github.com/romangigliotti123-arch/vault-refs-01.git` and open `INDEX.md`.
+Part of the Roblox Dev Mastery Vault (https://github.com/romangigliotti123-arch/vault-kit-01). Built and maintained by Roman (GitHub: romangigliotti123-arch). The vault's setup and `/update-rbxdev-vault` fetch this repository automatically into `~/.claude/claude-kit/roblox-reference/` and point the visual-QA step at it (`claude-kit/tools/refs-sync.py`); by hand: `git clone https://github.com/romangigliotti123-arch/vault-refs-01.git` and open `INDEX.md`.
 
 Files: `INDEX.md` (one line per image: path | game | category | why it is good | tags), `NOTICE.md`, `RESEARCH-best-looking.md` (how the games were chosen), `img/<game>/<nn>-<category>.jpg`.
 
