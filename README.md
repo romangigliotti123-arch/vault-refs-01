@@ -1,6 +1,6 @@
 # Roblox reference screenshots (vault-refs)
 
-308 frames from 31 popular, high-polish Roblox games (37 folders; phone captures are separate `-mobile` folders), indexed by screen type (HUD, shop, popup, world, lighting, VFX, mobile layout, onboarding, typography) and by quality tag. They are visual-quality references: an AI agent (or a person) compares screenshots of their own game with what good looks like and writes concrete differences.
+413 frames from 42 popular, high-polish Roblox games (51 folders; phone captures are separate `-mobile` folders), indexed by screen type (HUD, shop, popup, world, lighting, VFX, mobile layout, onboarding, typography) and by quality tag. They are visual-quality references: an AI agent (or a person) compares screenshots of their own game with what good looks like and writes concrete differences.
 
 **Third-party content.** Every image is a frame captured from a public gameplay video of someone else's Roblox game. Nothing here is original work of this repository's owner and no licence is granted: see [NOTICE.md](NOTICE.md) for the credits (game names, video creators), the rights position and how to ask for removal.
 
@@ -83,3 +83,34 @@ Batch 2 caveats: footage for these games has no phone-view or portrait video, so
 | deepwoken | https://www.youtube.com/watch?v=j0exlAkG7gM (ItzPinguh, Trial of One, no commentary; small UI text) |
 
 Batch 3 notes: tried and rejected (face-cam, hand-cam, meme edits or only lobby footage): Frontlines mobile AwfRhAFa5No (hand-cam overlay + HDR), Fisch mobile TS2clWXqVhk (face-cam), Anime Vanguards AlBUy76oBnI (lobby menus only, nothing new), Guts hT6kzlwF2sI (streamer face-cam), Dead Rails P1RFjxLIFig (lobby waiting only). Dandy's World and Guts & Blackpowder footage is dark; use for card/typography/atmosphere, not general brightness. Folders named <game>-mobile hold phone/tablet touch-HUD frames of games that also have a PC folder.
+
+
+## Source videos, batch 4 (round 4: lighting-atmosphere, shop/popups, mobile, effects; YouTube, section-downloaded video-only to a temp folder, deleted after frame extraction)
+| folder | video |
+|---|---|
+| brookhaven | https://www.youtube.com/watch?v=6yDbYlgn2SA (Game Infinity, relaxing no commentary; modest fidelity, used for the day/night cycle) |
+| bee-swarm-simulator | https://www.youtube.com/watch?v=o2Jh73OLxPw (Arutik Play, no commentary; early-game, only clean world frames kept) |
+| arsenal | https://www.youtube.com/watch?v=O4ujCFQ_7-8 (mpgg, 4K no commentary) |
+| natural-disaster-survival | https://www.youtube.com/watch?v=mD48oDGNJQk (Bloxoonrob, no commentary) |
+| pressure | https://www.youtube.com/watch?v=2SNL56SqUjE (ILYAS, 4K walkthrough; faint creator tag cropped out of every frame) |
+| a-dusty-trip | https://www.youtube.com/watch?v=tdHsOyfQ52I (ILYAS, 4K walkthrough; creator tag at the bottom cropped out) |
+| the-mimic | https://www.youtube.com/watch?v=obWT6dT11eA (The Game Archivist, no commentary) |
+| lakeside-hill | https://www.youtube.com/watch?v=KYaAYf9azSs (VisionPsyche7, walkthrough of the Lakeside Hill showcase; player list on the right cropped out) |
+| dead-rails | https://www.youtube.com/watch?v=alMME9rMQxw (AngaleOnYoutube, tablet no commentary, touch buttons visible) |
+| blade-ball | https://www.youtube.com/watch?v=4fs0-WAEHRY (Flarsee, no commentary) |
+| doors-mobile (new Mines frames) | https://www.youtube.com/watch?v=q9xRQYjZwyQ (Neco, Doors Floor 2 Mines on mobile) |
+| rivals (new frames) | https://www.youtube.com/watch?v=WXABSLhp9nM (anthonyy, no commentary no music) |
+| guts-blackpowder (new frames) | https://www.youtube.com/watch?v=aqn-GvbvmKw (Sandmob, mobile-server footage; chat column cropped out) |
+| blox-fruits (new frames) | https://www.youtube.com/watch?v=BNLd9J_HAh8 (Zayn Elior, relaxing no commentary) and https://www.youtube.com/watch?v=fJNvo3anmQ4 (Axiore, Dough awakening showcase, no commentary) |
+| adopt-me-mobile | https://www.youtube.com/watch?v=xJvDJX7cObk (AnitA, tablet, Halloween, no commentary) |
+| pet-simulator-99 (new frames) | https://www.youtube.com/watch?v=WVTfm-5bKLA (No Commentary Roblox) |
+| grow-a-garden (new frames) | https://www.youtube.com/watch?v=XzkzcW1V0jE (J-AMan Playz, early version; shop panels only) |
+| anime-vanguards (new frames) | https://www.youtube.com/watch?v=THhVSYtLT2Q (JustSpawn Gameplay, new-player walkthrough; only menu/popup frames kept, no frames with the player nameplate) |
+| tower-defense-x-mobile | https://www.youtube.com/watch?v=sB88IfnnSv4 (Ilovetdx and LemonTDX, iPad) and https://www.youtube.com/watch?v=b-c-JNBHaMw (Spiral, Voidmare on mobile) |
+| dandys-world-mobile | https://www.youtube.com/watch?v=Qy7D6aTKOek (D1n0sh3llyRawrxx, mobile floors 4-9; frames with chat or name tags not used) |
+| piggy-mobile | https://www.youtube.com/watch?v=p5LsdeMDOJU (TyFrostRBX, Piggy chapters on mobile, no commentary) |
+| sols-rng (new frames) | https://www.youtube.com/watch?v=oWQ8FxwxN7w (floob, Halloween 2026 cutscenes; only frames without captions kept) |
+
+Batch 4 notes: rejected after viewing (hand-cam, meme captions, emulator overlays, wrong game, or a non-Roblox mod): Anime Vanguards mobile macro videos QcqNf95T4ng and mpw0J3b4StU (emulator and auto-clicker overlays), Guts & Blackpowder mobile FFyFEESesuU (meme captions), a Piggy Android mod video mn1gEe3C-sk (not the Roblox game), a "Fisch" search result 5X1lQZtOXqM (a different fishing game). No clean phone footage was found for Anime Vanguards, so its new frames are menu/popup/onboarding only. Brookhaven, Bee Swarm and the early Grow a Garden are modest fidelity and are kept only for what their WHY text names. lighting-atmosphere rows now carry extra tags (day, dusk, sunset, night, fog, bloom, sun-rays, sky, interior, warm, colorgrade, genre-*).
+
+Batch 4 privacy pass (release review before publishing): player names and usernames shown in the frames were blurred in place (JPEG re-saved, quality 92, everything else unchanged): Dead Rails (Party Id pill on all 10 frames, three nameplates), Blade Ball (leaderboard on 3 frames, gacha winners list, chat line, distant nameplates), Arsenal (chat line, kill feeds, nameplates), Brookhaven (car licence plates), Natural Disaster Survival (nameplate, number tag), Bee Swarm (honeymaker board), A Dusty Trip (uploader watermark, nameplate), Adopt Me mobile (tag), Dandy's World mobile (two chat bubbles), Tower Defense X mobile (tower owner names under every tower title, player nameplates). The "Lakeside Hill by K..." title credit in the Lakeside Hill frames is the game's own on-screen credit (cut off by the video frame) and was kept; the game and its creator are credited in NOTICE.md. Frames from batches 1-3 were not re-reviewed in this pass.
